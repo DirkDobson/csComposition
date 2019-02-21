@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/bin/Debug/netcoreapp2.1/Composition.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/bin/Debug/netcoreapp2.1/Composition.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/bin/Debug/netcoreapp2.1/Composition.pdb
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.dll
+/Users/dirkvancouver/Desktop/Projects/c#Intermediate/Composition/obj/Debug/netcoreapp2.1/Composition.pdb

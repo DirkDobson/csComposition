@@ -2,7 +2,7 @@ using System;
 
 namespace Composition
 {
-  public class Loger
+  public class Logger
   {
     public void Log(string message)
     {
